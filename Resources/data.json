@@ -1,0 +1,23 @@
+{
+  "basics":{
+    "objective":"all are true"
+  },
+  "education":[
+    {
+      "degree":"B.Tech(computer science and engineering)",
+      "college":"Kandula lakshumma memorial college of engineering for women",
+      "data":["2015-2019","72%"]
+        },
+        {
+          "degree":"state board of secondary education(Intermediate)",
+          "college":"Narayana junior college",
+          "data":["2013-2015","86%"]
+        },
+        {
+          "degree":"ssc",
+          "school":"Nagarjuna model school",
+          "data":["2012-2013","97%]
+        }
+
+  ]
+}
