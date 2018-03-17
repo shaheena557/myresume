@@ -1,6 +1,6 @@
 {
   "basics":{
-    "objective":"all are true"
+    "objective":"All are true"
   },
   "education":[
     {
@@ -15,8 +15,8 @@
         },
         {
           "degree":"ssc",
-          "school":"Nagarjuna model school",
-          "data":["2012-2013","97%]
+          "college":"Nagarjuna model school",
+          "data":["2012-2013","97%"]
         }
 
   ]
